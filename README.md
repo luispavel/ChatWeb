@@ -1,5 +1,5 @@
 # ChatWeb
-_Chat web utilizando NodeJs, ExpressJs, sockets con socket.io , jQuery, Bootstrap para CSS y FontAwesome para los iconos
+_Chat web utilizando NodeJs, ExpressJs, sockets con socket.io , jQuery, Bootstrap para CSS y FontAwesome para los iconos_
 
 ## Empezando
 _Las siguientes instrucciones que se describen a continuación servirán para poder iniciar el proyecto de manera local._
